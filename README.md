@@ -6,9 +6,11 @@
 
 ## My Task
 
+[](https://img.shields.io/badge/Homework-Week%201-blue) 
 
 
-**Refactoring** I set out to make this Website more accsessible to those who need it. My goal was to not change the website itself, but make it easier for screen readers to understand what is going on. By adding things like \<navs> and \<headers> into our semantic html, it becomes much easier to navigate webpages with visual or similar impairments. 
+
+ I set out to make the customers Website more accsessible to those who need it. My goal was to not change the website itself, but make it easier for screen readers to understand what is going on. By adding things like **\<navs>** and **\<headers>** into our semantic html, instead of **\<divs>**** and **\<spans>** it becomes much easier to navigate webpages with visual or similar impairments. 
 
 ### Original HTML
 
